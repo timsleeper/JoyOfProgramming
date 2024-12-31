@@ -1,0 +1,1 @@
+﻿import time; time.sleep(0.01); raise AssertionError('PYTHON OK')
